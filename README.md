@@ -8,7 +8,7 @@ you find any errors.
 
 [CSUSM-01-Welcome notebook](http://nbviewer.ipython.org/github/willingc/csusm-science/blob/master/CSUSM-01-Welcome.ipynb)
 
-[CSUSM-02-Getting Started](http://nbviewer.ipython.org/github/willingc/csusm-science/blog/master/CSUSM-02-getting-started.ipynb)
+[CSUSM-02-Getting Started](http://nbviewer.ipython.org/github/willingc/csusm-science/blob/master/CSUSM-02-getting-started.ipynb)
 
 
 All materials are licensed (CC by 4.0) <https://creativecommons.org/licenses/by/4.0/>
