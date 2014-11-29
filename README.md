@@ -10,5 +10,7 @@ you find any errors.
 
 [CSUSM-02-Getting Started](http://nbviewer.ipython.org/github/willingc/csusm-science/blob/master/CSUSM-02-getting-started.ipynb)
 
-`Tutorial Instructions for Test Driven Development with Django to create a blog`_<tutorial.md>
+*Group Project*
+[Tutorial Guide for WIE Blog](http://csusm-science.readthedocs.org)
+
 All materials are licensed (CC by 4.0) <https://creativecommons.org/licenses/by/4.0/>
